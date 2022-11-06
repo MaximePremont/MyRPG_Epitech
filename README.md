@@ -97,9 +97,8 @@ To finish this description, here is the in-game menu, with the possibility to sa
 ## ⚙️ Installation
 ⚠️ This project requires CSFML 2.5.0 to build.
 ```
-git clone https://github.com/MaximePremont/zappy_epitech.git
-cd zappy_epitech
-pip3 install -r requirements.txt
+git clone https://github.com/MaximePremont/MyRpg_Epitech
+cd MyRPG_Epitech
 make
 ```
 #
